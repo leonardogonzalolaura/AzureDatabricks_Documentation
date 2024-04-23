@@ -4,7 +4,6 @@
 # Introduction DataBricks
 
 
-
 ### Basic Fundamentals
 
 - **Databricks is primarily written** in programming languages such as Scala, Python, and Java.
